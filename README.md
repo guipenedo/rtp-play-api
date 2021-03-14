@@ -15,7 +15,7 @@ pip install rtpplayapi
 from rtpplayapi import RTPPlayAPI
 
 rtppapi = RTPPlayAPI()
-print(rtpapi.search("offline"))
+print(rtppapi.search("offline"))
 ```
 
 ## Endpoints

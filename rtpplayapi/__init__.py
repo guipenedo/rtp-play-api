@@ -1,1 +1,1 @@
-from api import RTPPlayAPI
+from .api import RTPPlayAPI

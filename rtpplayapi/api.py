@@ -7,7 +7,7 @@ import requests
 import time
 import hmac
 import hashlib
-from configuration import RTPPlayConfig
+from .configuration import RTPPlayConfig
 
 logger = logging.getLogger()
 
