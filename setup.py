@@ -15,7 +15,7 @@ setup_args = dict(
     author_email='nostrumg@gmail.com',
     keywords=['rtp', 'rtpplay', 'rtp-play', 'api', 'mobile', 'rtp-play-api'],
     url='https://github.com/guipenedo/rtp-play-api',
-    download_url='https://pypi.org/project/rtp-play-api/'
+    download_url='https://pypi.org/project/rtpplayapi/'
 )
 
 install_requires = [
