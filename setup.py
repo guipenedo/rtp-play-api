@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='rtpplayapi',
-    version='1.0.3',
+    version='1.0.4',
     description='An unofficial python api to fetch media from RTPPlay, based on their mobile API.',
     long_description_content_type="text/markdown",
     long_description=README,
