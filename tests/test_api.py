@@ -17,9 +17,9 @@ class TestApi(unittest.TestCase):
 
     def test_get_collection(self):
         rtpp = RTPPlayAPI()
-        req = rtpp.get_collection(178)
-        self.assertEqual(req["name"], "64 Anos de RTP")
-        self.assertEqual(req["collection_id"], "178")
+        req = rtpp.get_collection(33)
+        self.assertEqual(req["name"], "Zig Zag")
+        self.assertEqual(req["collection_id"], "33")
 
 
 if __name__ == '__main__':
